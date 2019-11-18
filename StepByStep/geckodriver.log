@@ -1,0 +1,45 @@
+1574056996061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAVEDI~1\\AppData\\Local\\Temp\\rust_mozprofileQdtKGT"
+1574057004757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574057004757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574057004758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574057004758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:7\n"
+[Parent 10960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574057027347	Marionette	INFO	Listening on port 58188
+[Child 10120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10120,1574057027656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mmaplus.rtdtradetracker.com/themes/MMA_Plus/dist/js/app.min.js, line 13: TypeError: $.AdminLTE is undefined
+1574057056056	Marionette	INFO	Stopped listening on port 58188
+[Child 3056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21656, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574057080196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\JAVEDI~1\\AppData\\Local\\Temp\\rust_mozprofileEyg1zR"
+1574057081554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574057081555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574057081555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574057081555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 14564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[1574057105827	Marionette	INFO	Listening on port 58517
+1574057106229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mmaplus.rtdtradetracker.com/themes/MMA_Plus/dist/js/app.min.js, line 13: TypeError: $.AdminLTE is undefined
+1574057129039	Marionette	INFO	Stopped listening on port 58517
+[Parent 14564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1913[Parent 14564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5568, Chrome_ChildThread] WARNING: pipe error[Parent 14564, Gecko_IOThread] WARNING: file z:/task_1570640083/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 14564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1570640083/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20212, Chrome_ChildTJavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat

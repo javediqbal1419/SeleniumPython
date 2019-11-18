@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c3f6c2-18d8-4968-811e-9491967084ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestMMA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="19" selection-start-line="3" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unitTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="80" selection-start-line="3" selection-end-line="3" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StepByStep/Tests/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="92" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="92" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StepByStep/MMAPlusTest02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="93" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="93" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StepByStep/DemoMMAPlus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="359" selection-start-line="359" selection-end-line="359" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="614" selection-start-line="614" selection-end-line="614" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StepByStep/MMAPlusTest01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3009">
+              <caret line="177" selection-start-line="177" selection-end-line="177" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StepByStep/RecordedMMA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="102" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="102" />
+              <folding>
+                <element signature="e#24#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StepByStep/DemoDriverManager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/Test1.py" />
+        <option value="$PROJECT_DIR$/conditional.py" />
+        <option value="$PROJECT_DIR$/explicitWait.py" />
+        <option value="$PROJECT_DIR$/pageLoadTime.py" />
+        <option value="$PROJECT_DIR$/inputBox.py" />
+        <option value="$PROJECT_DIR$/Links.py" />
+        <option value="$PROJECT_DIR$/Popup.py" />
+        <option value="$PROJECT_DIR$/ScrollPage.py" />
+        <option value="$PROJECT_DIR$/MouseAction.py" />
+        <option value="$PROJECT_DIR$/DoubleClick.py" />
+        <option value="$PROJECT_DIR$/RightClick.py" />
+        <option value="$PROJECT_DIR$/UploadFile.py" />
+        <option value="$PROJECT_DIR$/ReadXL.py" />
+        <option value="$PROJECT_DIR$/DDT.py" />
+        <option value="$PROJECT_DIR$/DDTbase.py" />
+        <option value="$PROJECT_DIR$/unitTest.py" />
+        <option value="$PROJECT_DIR$/StepByStep/unitTestReport.py" />
+        <option value="$PROJECT_DIR$/TestMMA.py" />
+        <option value="$PROJECT_DIR$/StepByStep/Pages/homePage.py" />
+        <option value="$PROJECT_DIR$/StepByStep/Pages/LoginPage.py" />
+        <option value="$PROJECT_DIR$/PyTest/SampleTest.py" />
+        <option value="$PROJECT_DIR$/PyTest/sample_test.py" />
+        <option value="$PROJECT_DIR$/StepByStep/RecordedMMA.py" />
+        <option value="$PROJECT_DIR$/StepByStep/DriverManager.py" />
+        <option value="$PROJECT_DIR$/StepByStep/DemoDriverManager.py" />
+        <option value="$PROJECT_DIR$/StepByStep/MMAPlusTest01.py" />
+        <option value="$PROJECT_DIR$/StepByStep/Tests/login.py" />
+        <option value="$PROJECT_DIR$/StepByStep/MMAPlusTest02.py" />
+        <option value="$PROJECT_DIR$/StepByStep/DemoMMAPlus.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="StepByStep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="StepByStep" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="StepByStep" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04">
+    <configuration name="Unittests for DemoMMAPlus.MMAPlusTest02.test_m_m_a_plus_test02" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StepByStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DemoMMAPlus.MMAPlusTest02.test_m_m_a_plus_test02&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for DemoMMAPlus.MMAPlusTest03" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StepByStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DemoMMAPlus.MMAPlusTest03&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StepByStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for MMAPlusTest02.MMAPlusTest02.test_m_m_a_plus_test02" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StepByStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;MMAPlusTest02.MMAPlusTest02.test_m_m_a_plus_test02&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in DemoMMAPlus.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StepByStep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/StepByStep/DemoMMAPlus.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" />
+        <item itemvalue="Python tests.Unittests in DemoMMAPlus.py" />
+        <item itemvalue="Python tests.Unittests for DemoMMAPlus.MMAPlusTest03" />
+        <item itemvalue="Python tests.Unittests for DemoMMAPlus.MMAPlusTest02.test_m_m_a_plus_test02" />
+        <item itemvalue="Python tests.Unittests for MMAPlusTest02.MMAPlusTest02.test_m_m_a_plus_test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c3f6c2-18d8-4968-811e-9491967084ee" name="Default Changelist" comment="" />
+      <created>1573465933738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573465933738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest02_test_m_m_a_plus_test02 - 2019.11.18 at 15h 54m 24s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest02.test_m_m_a_plus_test02" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest03 - 2019.11.18 at 15h 58m 17s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest03" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_DemoMMAPlus_py - 2019.11.18 at 16h 01m 38s.xml">
+      <configuration name="Unittests in DemoMMAPlus.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest04_test_m_m_a_plus_test04 - 2019.11.18 at 16h 05m 07s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest04_test_m_m_a_plus_test04 - 2019.11.18 at 16h 15m 02s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest04_test_m_m_a_plus_test04 - 2019.11.18 at 16h 16m 14s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest04_test_m_m_a_plus_test04 - 2019.11.18 at 16h 21m 40s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_MMAPlusTest01_MMAPlusTest01 - 2019.11.18 at 16h 21m 49s.xml">
+      <configuration name="Unittests for MMAPlusTest01.MMAPlusTest01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest04_test_m_m_a_plus_test04 - 2019.11.18 at 16h 21m 49s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_DemoMMAPlus_MMAPlusTest04_test_m_m_a_plus_test04 - 2019.11.18 at 17h 15m 07s.xml">
+      <configuration name="Unittests for DemoMMAPlus.MMAPlusTest04.test_m_m_a_plus_test04" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.78741497" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.21258503" side_tool="true" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.29591838" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3282313" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.2840136" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/StepByStep/MMAPlusTest01.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/StepByStep/DemoMMAPlus.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/explicitWait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="24" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageLoadTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="80" lean-forward="true" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="80" lean-forward="true" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Popup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="80" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MouseAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubleClick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="55" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RightClick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="80" lean-forward="true" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="92" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadXL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UploadFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="80" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDTbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScrollPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="80" selection-start-line="5" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DDT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="80" selection-start-line="4" selection-end-line="4" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/unitTestReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="31" selection-start-line="29" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/Pages/homePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyTest/sample_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/Pages/LoginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unitTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="80" selection-start-line="3" selection-end-line="3" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestMMA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="3" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/DriverManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/DemoDriverManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/RecordedMMA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="102" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="102" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/Tests/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="92" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/MMAPlusTest01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/MMAPlusTest02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="93" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="93" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StepByStep/DemoMMAPlus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#24#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
